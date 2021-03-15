@@ -4,8 +4,8 @@
 ### 설치사항
 - oracle db, 
 - sql developer 설치
-- apache tomcat 설치 및 연결 포트번호 : 8090으로 설정
-- jsp소스를 실행시킬 수 있는 IDE 설치(이클립스)
+- apache tomcat 설치 및 연결 임의의 잔여 포트번호 설정
+- jsp소스를 실행시킬 수 있는 IDE 설치(ex : 이클립스)
 
 ### 기본 데이터베이스 설정
 <pre><code>
